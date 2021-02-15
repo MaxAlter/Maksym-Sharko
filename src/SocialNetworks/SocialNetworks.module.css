@@ -1,0 +1,25 @@
+.container {
+  width: 200px;
+  height: 55px;
+}
+
+.social_networks {
+  padding: 0px 5px 5px 5px;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.social_link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.social_item {
+  width: 45px;
+  height: 45px;
+}
+
+.social_link:hover {
+  border-bottom: #ffee00 1px solid;
+}

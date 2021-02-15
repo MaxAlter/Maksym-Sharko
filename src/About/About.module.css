@@ -1,0 +1,69 @@
+.container {
+  background-color: #fff;
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 30px;
+  background: url('../Img/bg-29.png');
+}
+
+.content {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.title {
+  font-size: xx-large;
+  text-transform: uppercase;
+  border-bottom: #07eeff 2px solid;
+  margin: 0;
+  padding-left: 10px;
+
+}
+
+.title_list {
+  margin: 15px 0;
+  padding: 0;
+  border-bottom: #07eeff 2px solid;
+}
+
+.title_list_one_text,
+.title_list_two_text,
+.title_list_three_text {
+  font-family: 'Londrina Solid', cursive;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.title_list_one_title,
+.title_list_two_title,
+.title_list_three_title,
+.title_list_four_title {
+  font-family: 'Do Hyeon';
+  text-transform: uppercase;
+  background-color: #c5ddf3;
+  font-weight: 800;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-left: 10px solid #07eeff;
+  box-shadow: 5px 5px 5px #0000001a;
+  font-size: 16px;
+}
+
+.title_list_two_title_item {
+  font-family: 'Do Hyeon';
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.title_list_four {
+  padding-bottom: 20px;
+}
+
+.title_list_box_text {
+  margin: 15px 0;
+}
+

@@ -1,0 +1,95 @@
+.container {
+  background-color: #fff;
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 30px;
+  background: url('../Img/bg-29.png');
+}
+
+.content {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 5px;
+}
+
+.project {
+  padding: 0;
+  margin: 0;
+}
+.project_list {
+  list-style: none;
+}
+
+.title {
+  font-size: xx-large;
+  text-transform: uppercase;
+  border-bottom: #07eeff 2px solid;
+  margin: 0 0 30px 0;
+  padding-left: 10px;
+
+}
+
+.project_list_title {
+  font-family: 'Do Hyeon';
+  text-transform: uppercase;
+  background-color: #c5ddf3;
+  font-weight: 600;
+  padding: 5px 10px;
+  margin: 0;
+  border-radius: 5px;
+  border-left: 10px solid #07eeff;
+  box-shadow: 5px 5px 5px #0000001a;
+  font-size: 18px;
+}
+
+.project_desc {
+  padding: 25px 0;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.content_img {
+  padding: 5px;
+  width: 300px;
+  height: 200px;
+}
+
+.project_link {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.project_desc_list {
+  padding: 25px 10px;
+  border-top: 2px solid #07eeff;
+  border-bottom: 2px solid #07eeff;
+}
+
+.project_link_item {
+  box-shadow: 7px 7px 7px #0000001a;
+  font-weight: 600;
+  font-size: 18px;
+  background-color: white;
+  padding: 5px;
+  color: #0300b6bb;
+  text-decoration: none;
+  background-color: palegoldenrod;
+}
+
+.project_link_item:hover {
+  border-bottom: orangered 1px solid;
+  color: #000000;
+}
+
+.desc_title {
+  margin: 0;
+  font-size: 16px;
+  padding-bottom: 15px;
+}
+.project_link_title {
+  margin: 0;
+}

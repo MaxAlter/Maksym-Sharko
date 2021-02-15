@@ -1,0 +1,75 @@
+.container {
+  background-color: #fff;
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 30px;
+  background: url('../Img/bg-29.png');
+}
+
+.content {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.title {
+  font-size: xx-large;
+  text-transform: uppercase;
+  border-bottom: #07eeff 2px solid;
+  margin: 0;
+  padding-left: 10px;
+
+}
+
+.resume_title {
+  margin: 0;
+  padding: 0;
+}
+
+.resule_link{
+  box-shadow: 7px 7px 7px #0000001a;
+  font-weight: 600;
+  font-size: 18px;
+  background-color: white;
+  padding: 5px;
+  color: #0300b6bb;
+  text-decoration: none;
+  background-color: palegoldenrod;
+}
+.resule_link:hover {
+  border-bottom: orangered 1px solid;
+  color: #000000;
+}
+
+.resume_title_item {
+  font-family: 'Do Hyeon';
+  text-transform: uppercase;
+  background-color: #d1e6f8;
+  font-weight: 800;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-left: 10px solid #07eeff;
+  box-shadow: 5px 5px 5px #0000001a;
+  font-size: 16px;
+}
+
+.skills_list {
+  padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.skills_title {
+  margin: 0;
+  padding: 7px;
+  border-bottom: #07eeff 2px solid;
+}
+
+.resume_title_list_work {
+  border-bottom: #07eeff 2px solid;
+}
+
+

@@ -1,0 +1,87 @@
+.container {
+  background-color: #fff;
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 40px 3px;
+  background: url('../Img/bg-29.png');
+}
+
+.content {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 5px;
+  border-bottom: #07eeff 2px solid;
+}
+
+.title {
+  font-size: xx-large;
+  text-transform: uppercase;
+  border-bottom: #07eeff 2px solid;
+  margin: 0;
+  padding-left: 10px;
+}
+
+.contact_list {
+  margin: 0;
+  padding: 50px 0;
+}
+.contact_list_bg {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 60px 0;
+  background: url('../Img/bg-6.jpg');
+  box-shadow: 0 0 0 1px silver, 0 -20px 0 -15px coral,
+    20px 0 0 -15px darkturquoise, 0 20px 0 -15px gold,
+    -20px 0 0 -15px chartreuse;
+}
+
+.contact_list_avatar {
+  padding: 7px;
+  box-shadow: inset 2px 2px 20px rgba(248, 248, 248, 0.5),
+    1px 1px 5px rgb(44, 44, 44);
+}
+
+.avatar {
+  width: 300px;
+  height: 370px;
+  border-radius: 5px;
+}
+
+.contact_list_info {
+  text-align: center;
+  padding: 40px 10px;
+}
+
+.social_link {
+  color: #39393a;
+}
+
+.contact_list_item {
+  font-family: 'Do Hyeon';
+  background-color: #c5ddf3;
+  font-weight: 400;
+  background-color: #d1e6f8;
+  padding: 10px 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-left: 15px solid #07eeff;
+  box-shadow: 5px 5px 5px #0000001a;
+  font-size: 18px;
+}
+
+.contact_list_item:hover {
+  border-left: 15px solid coral;
+}
+
+.contact_list_item:last-child {
+  margin: 0;
+}
+
+.btn {
+  padding: 7px 50px;
+  color: #39393a;
+  text-transform: uppercase;
+}

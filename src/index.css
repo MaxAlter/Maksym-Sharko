@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background: rgb(39, 46, 46);
+  background: radial-gradient(
+    circle,
+    #272e2e 0%,
+    #3a4e4e 25%,
+    #272e2e 40%,
+    #3a4e4e 50%,
+    #272e2e 60%,
+    #3a4e4e 75%,
+    #272e2e 85%,
+    #272e2e 100%
+  );
+
+  font-family: 'Do Hyeon', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+li {
+  list-style-type: none;
+}
+
+p {
+  margin: 15px 0;
+}

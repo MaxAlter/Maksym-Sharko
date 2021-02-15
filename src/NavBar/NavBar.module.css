@@ -1,0 +1,18 @@
+.container {
+  height: 35px;
+  display: flex;
+  align-items: center;
+}
+
+.nav_list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 700px;
+  padding: 20px 5px 0 5px;
+}
+
+.nav_list_item {
+  list-style: none;
+}
