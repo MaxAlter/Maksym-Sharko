@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Maksym-Sharko/static/css/main.630c0b15.chunk.css",
+    "main.js": "/Maksym-Sharko/static/js/main.f3b92cf8.chunk.js",
+    "main.js.map": "/Maksym-Sharko/static/js/main.f3b92cf8.chunk.js.map",
+    "runtime-main.js": "/Maksym-Sharko/static/js/runtime-main.7545e5a7.js",
+    "runtime-main.js.map": "/Maksym-Sharko/static/js/runtime-main.7545e5a7.js.map",
+    "static/js/2.c8e5254f.chunk.js": "/Maksym-Sharko/static/js/2.c8e5254f.chunk.js",
+    "static/js/2.c8e5254f.chunk.js.map": "/Maksym-Sharko/static/js/2.c8e5254f.chunk.js.map",
+    "index.html": "/Maksym-Sharko/index.html",
+    "static/css/main.630c0b15.chunk.css.map": "/Maksym-Sharko/static/css/main.630c0b15.chunk.css.map",
+    "static/js/2.c8e5254f.chunk.js.LICENSE.txt": "/Maksym-Sharko/static/js/2.c8e5254f.chunk.js.LICENSE.txt",
+    "static/media/6VShoYo.3562da6c.png": "/Maksym-Sharko/static/media/6VShoYo.3562da6c.png",
+    "static/media/HomePaje.module.css": "/Maksym-Sharko/static/media/bg-2.4067db88.png",
+    "static/media/About.module.css": "/Maksym-Sharko/static/media/bg-29.2d04e9b2.png",
+    "static/media/Contact.module.css": "/Maksym-Sharko/static/media/bg-6.d0a3736b.jpg",
+    "static/media/children2.1082f5dc.png": "/Maksym-Sharko/static/media/children2.1082f5dc.png",
+    "static/media/email.f6de61a3.svg": "/Maksym-Sharko/static/media/email.f6de61a3.svg",
+    "static/media/linkedin.94348fab.svg": "/Maksym-Sharko/static/media/linkedin.94348fab.svg",
+    "static/media/main-photo.881eb5d1.png": "/Maksym-Sharko/static/media/main-photo.881eb5d1.png",
+    "static/media/nqmIoEt.06db843c.png": "/Maksym-Sharko/static/media/nqmIoEt.06db843c.png",
+    "static/media/phone.45602bde.svg": "/Maksym-Sharko/static/media/phone.45602bde.svg",
+    "static/media/pm4DHlf.b0e3a79b.png": "/Maksym-Sharko/static/media/pm4DHlf.b0e3a79b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7545e5a7.js",
+    "static/js/2.c8e5254f.chunk.js",
+    "static/css/main.630c0b15.chunk.css",
+    "static/js/main.f3b92cf8.chunk.js"
+  ]
+}
