@@ -47,8 +47,9 @@ const Resume = () => {
                   <h4 className={st.skills_title}>FRONTEND</h4>
                   <li>JavaScript</li>
                   <li>React / Redux</li>
-                  <li>HTML 5</li>
-                  <li>CSS 3 / SCSS</li>
+                  <li>Vue / Nuxt.js</li>
+                  <li>HTML</li>
+                  <li>CSS / SCSS</li>
                   <li>NPM / Yarn</li>
                   <li>Photoshop /Avacode</li>
                   <li>WebPack / Gulp</li>
